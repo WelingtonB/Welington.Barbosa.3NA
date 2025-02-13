@@ -1,0 +1,11 @@
+# Padrões gerais para Rust
+target/
+Cargo.lock
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do IDE
+.idea/
+*.swp
